@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "author": "Alessandro Naldi",
-  "license": "MIT",
+  "license": "Apache License 2.0",
   "devDependencies": {
     "cross-env": "^4.0.0",
     "eslint": "3.12.0",
